@@ -1,0 +1,28 @@
+.aboutPage {
+  display: flex;
+  max-width: 1230px;
+  margin-bottom: 100px;
+  padding: 40px 90px;
+  background-color: #fff;
+  border-radius: 20px;
+  color: #333;
+
+  .image_wrapper{
+    margin-right: 50px;
+  }
+
+  .content_wrapper{
+    h3{
+      margin-bottom: 15px;
+      font-weight: 700;
+      font-size: 30px;
+      line-height: 41px;
+    }
+
+    p{
+      font-weight: 400;
+      font-size: 15px;
+      line-height: 140%;
+    }
+  }
+}

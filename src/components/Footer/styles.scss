@@ -1,0 +1,19 @@
+.main_footer {
+  background-color: #3A3A3A;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 27px;
+
+  .footer_wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 154px;
+
+    .small{
+      text-align: right;
+      font-size: 18px;
+    }
+  }
+}

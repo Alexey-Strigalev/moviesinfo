@@ -1,0 +1,30 @@
+.main_header {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 27px;
+  margin-bottom: 50px;
+
+  .header_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 154px;
+  }
+
+  .nav_wrapper{
+    a {
+      color: #fff;
+      margin-right: 40px;
+
+      &:last-child{
+        margin-right: 0;
+      }
+    }
+
+    .linkActive{
+      color: #E59C9C;
+      text-decoration: underline;
+
+    }
+  }
+}

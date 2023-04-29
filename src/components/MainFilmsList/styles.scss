@@ -1,0 +1,20 @@
+.mainFilmsList{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  max-width: 1230px;
+  margin-bottom: 100px;
+  padding: 40px 90px;
+
+  color: #333333;
+  background-color: #fff;
+  border-radius: 20px;
+
+  .item_wrapper:nth-child(4n) {
+    margin-right: 0;
+  }
+
+  .item_wrapper:first-child {
+    margin-bottom: 20px;
+  }
+}

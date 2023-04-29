@@ -1,0 +1,44 @@
+.item_wrapper {
+  width: 180px;
+  height: 380px;
+  margin-right: 110px;
+  text-align: start;
+  color: #333;
+
+  .item_wrapper:nth-last-child(4n) {
+    margin-right: 0;
+    background: red;
+  }
+
+  .img_wrapper{
+    margin-bottom: 20px;
+
+    img {
+      width: 180px;
+      height: 260px;
+      border-radius: 20px;
+    }
+  }
+
+  .films_name {
+    margin-bottom: 25px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 91%;
+    text-transform: uppercase;
+  }
+
+  .films_genres, .films_year {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+  }
+
+  .films_year {
+    margin-bottom: 10px;
+  }
+
+  .films_genres {
+    margin-bottom: 20px;
+  }
+}

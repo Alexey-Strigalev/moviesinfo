@@ -1,0 +1,17 @@
+.categoriesWrapper {
+
+  .list-wrapper{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    .categories-item_wrapper:nth-child(even) {
+      margin-bottom: 25px;
+    }
+
+    .categories-item_wrapper:last-child{
+      margin-bottom: 0;
+    }
+  }
+
+}

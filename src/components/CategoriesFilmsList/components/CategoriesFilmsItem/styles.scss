@@ -1,0 +1,33 @@
+.categories-item_wrapper{
+  display: flex;
+  width: 509px;
+  height: 229px;
+  color: #333;
+
+  .categories-img_wrapper {
+    margin-right: 43px;
+
+    img {
+      width: 185px;
+      height: 229px;
+      border-radius: 20px;
+    }
+  }
+
+  .categories-text_wrapper {
+    .categories-films_name {
+      margin-bottom: 55px;
+      font-weight: 600;
+      font-size: 20px;
+      line-height: 27px;
+      text-transform: uppercase;
+    }
+
+    .categories-films_genres{
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 22px;
+    }
+  }
+
+}
