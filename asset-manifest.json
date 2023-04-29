@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moviesinfo/static/css/main.5a249163.css",
+    "main.js": "/moviesinfo/static/js/main.850e9fc5.js",
+    "static/media/mainBg.jpg": "/moviesinfo/static/media/mainBg.2a5e1441009a5c450b65.jpg",
+    "static/media/aboutImg.jpg": "/moviesinfo/static/media/aboutImg.c5b5589469e2558ed4e1.jpg",
+    "index.html": "/moviesinfo/index.html",
+    "main.5a249163.css.map": "/moviesinfo/static/css/main.5a249163.css.map",
+    "main.850e9fc5.js.map": "/moviesinfo/static/js/main.850e9fc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a249163.css",
+    "static/js/main.850e9fc5.js"
+  ]
+}
