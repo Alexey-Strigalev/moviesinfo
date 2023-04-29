@@ -2,7 +2,7 @@
   "name": "moviesinfo",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://Alexey-Strigalev.github.io/moviesinfo",
+  "homepage": "https://Alexey-Strigalev.github.io/moviesinfo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -12,6 +12,7 @@
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "axios": "^1.3.4",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.5",
