@@ -9,4 +9,4 @@ SPA-приложение для поиска фильмов и сериалов.
 * Просмотр подробной информации по каждому фильму
 * Поисковая страница
 
-Демо: https://alexey-strigalev.github.io/main
+Демо: https://alexey-strigalev.github.io/moviesinfo/
